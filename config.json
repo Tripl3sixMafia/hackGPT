@@ -1,0 +1,11 @@
+{
+    "TelegramBotToken": "YOUR_BOT_TOKEN",
+    "TelegramChatID": "YOUR_CHAT_ID",
+    "ScanFiles": [
+        ".txt",
+        ".docx",
+        ".pdf",
+        ".jpg",
+        ".png"
+    ]
+}
